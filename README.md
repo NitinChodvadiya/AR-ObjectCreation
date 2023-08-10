@@ -1,1 +1,2 @@
 # AR-ObjectCreation
+In this AR Unity3D project, we start by detecting real-world surfaces using AR Foundation. Using C# scripting and XR technology, we trace object points, seamlessly blending reality and digital. By connecting these points, we craft interactive 3D objects that users can modify and enhance. With Unity3D's capabilities, we ensure realistic integration into the environment, offering an immersive AR experience.
